@@ -1,53 +1,101 @@
 # Song list:
 
 Alice In Chains - Angry Chair
+
 Alice In Chains - Bleed The Freak
+
 Alice In Chains - Love, Hate, Love
+
 Alice In Chains - Them Bones
+
 Alice In Chains - We die Young
+
 Cannibal Corpse - Hammer Smashed Face
+
 Cannibal Corpse - I Cum Blood
+
 Death - Choke on it
+
 Death - Left To Die
+
 Death - Leprosy
+
 Death - Primitive Ways
+
 Deftones - Around the Fur
+
 Deftones - Be Quiet And Drive (Far Away)
+
 Deftones - Change
+
 Deftones - Digital Bath
+
 Deftones - My Own Summer (Shove It)
+
 Dragonforce - Through The Fire And Flames
+
 Dream Theater - Another Day
+
 Dream Theater - Erotomania
+
 Dream Theater - Metropolis Part 1 (The Miracle And the Sleeper)
+
 Dream Theater - Panic Attack
+
 Dream Theater - Pull Me Under
+
 Dream Theater - The Mirror
+
 Dream Theater - Under a Glass Moon
+
 Gojira - A Sight To Behold
+
 Gojira - Amazonia
+
 Gojira - Gojira Flying Whales Drums MIDI
+
 Korn - A.D.I.D.A.S.
+
 Korn - Ball Tongue
+
 Korn - Blind
+
 Korn - Chi
+
 Korn - Falling away from me
+
 Korn - Freak On A Leash
+
 Korn - No Place To Hide
+
 Korn - Twist
+
 Korn - clown
+
 Limp Bizkit - BREAK STUFF
+
 Limp Bizkit - Gold Cobra
+
 Limp Bizkit - Rollin' (Air Raid Vehicle)
+
 Linkin Park - Don't Stay
+
 Linkin Park - In the End
+
 Linkin Park - One Step Closer
+
 Linkin Park - What I've Done
+
 Machine Head - Old
+
 Mayhem - Freezing Moon
+
 Mayhem - Necrolust
+
 Megadeth - A Tout le Monde
+
 Megadeth - Five Magics
+
 Megadeth - Hangar 18
 Megadeth - Holy Wars ... The Punishment Due
 Megadeth - Peace Sells
